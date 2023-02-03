@@ -26,4 +26,4 @@
 // const productName = "Repair droid";
 
 // // Якщо у змінній зберігається рядок
-// console.log(productName.length); //fg
+// console.log(productName.length); //
